@@ -2,7 +2,7 @@
     align-items: center;
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(5px);
-    border: solid 2px white;
+    border: solid 2px transparent;
     border-radius: 15px;
     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
     display: flex;
@@ -10,25 +10,19 @@
     height: 350px;
     margin: 5px;
     padding: 5px;
+    text-align: center;
     width: 250px;
 }
 
-.Item-image{
+.ProjectImage{
     border-radius: 15px;
-    height: 250px; 
+    margin-top: 20px;
     width: 150px;
 }
 
-.Price-Cart{
-    display: flex;
-    justify-content: space-between;
-    margin: 0;
-    padding: 0;
-}
-
 button{
-    background-color: #FE8967;
-    border: 2px solid #FE8967;
+    background-color: #F4C285;
+    border: 2px solid #F4C285;
     border-radius: 5px;
     box-shadow: 2px 2px 2px lightgrey;
     color: white;
@@ -40,7 +34,7 @@ button{
 }
 
 button:hover{
-    background-color: #FFFAEF;
-    border: 2px solid #FE8967;
-    color:#FE8967;
+    background-color: #FEFEFE;
+    border: 2px solid #F4C285;
+    color:#F4C285;
 }
