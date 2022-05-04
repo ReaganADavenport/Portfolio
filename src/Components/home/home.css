@@ -3,9 +3,22 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 100px;
     padding: 0;
     width: 100%;
     height: 100vh;
+}
+
+.big-button{
+    background-color: #fcc6be;
+    border: 2px solid #fcc6be;
+    color: black;
+    height: 70px;
+}
+
+.big-button:hover{
+    background-color: #FEFEFE;
+    border: 2px solid #fcc6be;
+    color: black;
 }
 

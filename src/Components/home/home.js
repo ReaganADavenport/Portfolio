@@ -8,6 +8,7 @@ const Home = () => {
         <div className="Home">
             <h1>Hi, I'm Reagan!</h1>
             <h3>I'm a Full-Stack Developer in Atlanta, GA</h3>
+            <button className='big-button'>Checkout My Porfolio Here</button>
         </div>
     )
 }
