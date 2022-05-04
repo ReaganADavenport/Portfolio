@@ -11,7 +11,7 @@
 .Links{
     display: flex;
     flex-direction: row;
-    margin: 5px;
+    margin-right: 5px;
 }
 
 .Links p{
