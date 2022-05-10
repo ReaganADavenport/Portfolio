@@ -7,11 +7,11 @@ const Navbar = () => {
     return(
         <div className='Nav'>
             <div className='Logo'>
-                <img src={logo}></img>
+                <a href='/'><img src={logo}></img></a>
             </div>
             <div className='Links'>
                 <p>About</p>
-                <p>Portfolio</p>
+                <a href='/portfolio'><p>Portfolio</p></a>
                 <p>Contact</p>
             </div>
             

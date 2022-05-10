@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 
@@ -11,12 +12,17 @@ import Portfolio from './Components/portfolio/portfolio';
 
 function App() {
   return(
-    <div className="Body">
-      <Nav></Nav>
-      <Home></Home>
-      <Portfolio></Portfolio>
-      <Footer></Footer>
-    </div>
+    <Router>
+      <div className="Body">
+        <Nav></Nav>
+        <Routes>
+          <Route path="/" element={<Home></Home>}></Route>
+          <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
+        </Routes>
+        <Footer></Footer>
+      </div>
+    </Router>
+    
 )
 }
 
