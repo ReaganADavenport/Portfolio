@@ -10,15 +10,15 @@
 }
 
 .big-button{
-    background-color: #fcc6be;
-    border: 2px solid #fcc6be;
+    background-color: #F4C285;;
+    border: 2px solid #F4C285;;
     color: black;
     height: 70px;
 }
 
 .big-button:hover{
     background-color: #FEFEFE;
-    border: 2px solid #fcc6be;
+    border: 2px solid #F4C285;;
     color: black;
 }
 
