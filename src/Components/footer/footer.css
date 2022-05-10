@@ -3,6 +3,7 @@
     backdrop-filter: blur(5px);
     border: solid 2px transparent;
     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
+    color: #4e706f;
     display: flex;
     height: 100%;
     justify-content: space-between;
@@ -10,15 +11,21 @@
 }
 
 .About{
+    /* color: #4e706f; */
+    color: black;
     margin-left: 35px;
 }
 
 .Portfolio{
+    /* color: #4e706f; */
+    color: black;
     margin-right: 20px;
     margin-left: 20px;
 }
 
 .Contact{
+    /* color: #4e706f; */
+    color: black;
     margin-right: 35px;
 }
 

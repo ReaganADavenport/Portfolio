@@ -4,6 +4,7 @@
     backdrop-filter: blur(5px);
     border: solid 2px transparent;
     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
+    color: #4e706f;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -15,16 +16,18 @@
 }
 
 .Links{
+    color: #4e706f;
     display: flex;
     flex-direction: row;
     margin-right: 5px;
 }
 
 .Links p{
+    color: #4e706f;
     margin: 15px;
 }
 
 .Links a{
-    color: black;
+    color: #4e706f;
     text-decoration: none;
 }
