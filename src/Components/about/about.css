@@ -19,3 +19,11 @@
     padding: 20px;
     width: 60vw;
 }
+
+.about-block h1{
+    color: #101616;
+}
+
+.about-block p{
+    color: #2f4343;
+}

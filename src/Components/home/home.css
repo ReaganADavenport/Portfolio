@@ -1,5 +1,4 @@
 .Home{
-    color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,16 +20,24 @@
     padding: 30px;
 }
 
+.block h1{
+    color: #101616;
+}
+
+.block h3{
+    color: #2f4343;
+}
+
 .big-button{
     background-color: #F4C285;;
     border: 2px solid #F4C285;;
-    color: black;
+    color: #101616;
     height: 70px;
 }
 
 .big-button:hover{
     background-color: #FEFEFE;
     border: 2px solid #F4C285;;
-    color: black;
+    color: #101616;
 }
 

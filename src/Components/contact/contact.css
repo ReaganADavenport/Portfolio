@@ -18,7 +18,15 @@
     padding: 30px;
 }
 
-.Contact-Info a{
-    color: black;
+.contact-block h1{
+    color: #101616;
+}
+
+.contact-block h3{
+    color: #2f4343;
+}
+
+.contact-block a{
+    color: #2f4343;
     text-decoration: none;
 }

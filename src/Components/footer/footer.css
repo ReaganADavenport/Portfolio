@@ -12,24 +12,32 @@
 
 .About{
     /* color: #4e706f; */
-    color: black;
+    color: #101616;
     margin-left: 35px;
 }
 
 .Portfolio{
     /* color: #4e706f; */
-    color: black;
+    color: #101616;
     margin-right: 20px;
     margin-left: 20px;
 }
 
+.Portfolio p{
+    color: #2f4343;
+}
+
 .Contact{
     /* color: #4e706f; */
-    color: black;
+    color: #101616;
     margin-right: 35px;
 }
 
+.Contact p{
+    color: #2f4343;
+}
+
 .Footer a{
-    color: black;
+    color: #101616;
     text-decoration: none;
 }
