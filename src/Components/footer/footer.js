@@ -11,17 +11,17 @@ const Footer = () => {
                 <h4>About</h4>
             </div>
             <div className='Portfolio'>
-                <h4>Portfolio</h4>
-                <p>GitHub</p>
-                <p>Medium</p>
+                <a href='/portfolio'> <h4>Portfolio</h4> </a>
+                <a href="https://github.com/ReaganADavenport"> <p>GitHub</p> </a>
+                <a href='https://medium.com/@reagan.a.davenport'> <p>Medium</p> </a>
             </div>
                 
             <div className='Contact'>
-                <h4>Contact</h4>
+                <a href='/Contact'> <h4>Contact</h4> </a>
                 <p>Phone: (404) 558-9065</p>
                 <p>Email: reagan.a.davenport@gmail.com</p>
-                <p>LinkedIn</p>
-                <p>Twitter</p>
+                <a href='https://www.linkedin.com/in/reagan-davenport/'> <p>LinkedIn</p></a>
+                <a href='https://twitter.com/ReaganADavenpo1'><p>Twitter</p></a>
             </div>
                 
             

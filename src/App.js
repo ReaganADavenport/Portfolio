@@ -7,6 +7,7 @@ import Nav from './Components/navbar/navbar';
 import Footer from './Components/footer/footer';
 import Home from './Components/home/home';
 import Portfolio from './Components/portfolio/portfolio';
+import Contact from './Components/contact/contact';
 
 
 
@@ -18,6 +19,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home></Home>}></Route>
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
+          <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
       </div>

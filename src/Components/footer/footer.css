@@ -5,7 +5,6 @@
     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
     display: flex;
     height: 100%;
-    
     justify-content: space-between;
     width: 100vw;
 }
@@ -21,4 +20,9 @@
 
 .Contact{
     margin-right: 35px;
+}
+
+.Footer a{
+    color: black;
+    text-decoration: none;
 }
