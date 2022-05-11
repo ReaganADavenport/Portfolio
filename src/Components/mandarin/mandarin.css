@@ -2,3 +2,46 @@
     display: flex;
     justify-content: center;
 }
+
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+
+.m-block-1{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+    border: solid 2px transparent;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
+    margin: 15px;
+    padding: 15px;
+    width: 33.3vw;
+}
+
+.m-img-1{
+    border-radius: 15px;
+    margin: 10px;
+    width: 33.3vw;
+}
+
+.m-img-2{
+    border-radius: 15px;
+    margin: 10px;
+    width: 400px;
+}
+
+.m-block-2{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+    border: solid 2px transparent;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
+    margin: 15px;
+    padding: 15px;
+    width: 55vw;
+}
