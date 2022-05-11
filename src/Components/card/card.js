@@ -5,7 +5,7 @@ import './card.css';
 
 class Card extends Component {
   render(){
-    const { projectImage, projectName, projectDescript} = this.props;
+    const { projectImage, projectName, projectDescript, projectLink} = this.props;
     
     return(
         <div className="Card">
@@ -16,7 +16,7 @@ class Card extends Component {
 
           <p>{projectDescript}</p>
 
-          <button type='button'>Learn More</button>
+          <a href={projectLink}><button type='button'>Learn More</button></a>
         </div>
     )
   }

@@ -10,6 +10,8 @@ import About from './Components/about/about';
 import Portfolio from './Components/portfolio/portfolio';
 import Contact from './Components/contact/contact';
 
+import Mandarin from './Components/mandarin/mandarin';
+
 
 
 function App() {
@@ -21,6 +23,7 @@ function App() {
           <Route path="/" element={<Home></Home>}></Route>
           <Route path="/about" element={<About></About>}></Route>
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
+          <Route path="/portfolio/mandarin" element={<Mandarin></Mandarin>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
