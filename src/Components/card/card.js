@@ -8,15 +8,16 @@ class Card extends Component {
     const { projectImage, projectName, projectDescript, projectLink} = this.props;
     
     return(
+      
         <div className="Card">
-    
-          <img className='ProjectImage' src={projectImage}></img>
+          <a href={projectLink}>
+            <img className='ProjectImage' src={projectImage}></img>
 
-          <h3>{projectName}</h3>
+            <h3>{projectName}</h3>
 
-          <p>{projectDescript}</p>
+            <p>{projectDescript}</p>
 
-          <a href={projectLink}><button type='button'>Learn More</button></a>
+          <button type='button'>Learn More</button></a>
         </div>
     )
   }
