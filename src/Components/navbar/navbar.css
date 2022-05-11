@@ -29,5 +29,10 @@
 
 .Links a{
     color: #2f4343;
+    text-decoration: none;
+}
+
+.Links p:hover{
+    color: #658277;
     text-decoration: underline;
 }
