@@ -12,7 +12,7 @@ class Card extends Component {
     
           <img className='ProjectImage' src={projectImage}></img>
 
-          <h2>{projectName}</h2>
+          <h3>{projectName}</h3>
 
           <p>{projectDescript}</p>
 

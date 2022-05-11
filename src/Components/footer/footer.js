@@ -18,8 +18,8 @@ const Footer = () => {
                 
             <div className='Contact'>
                 <a href='/Contact'> <h4>Contact</h4> </a>
-                <p>Phone: (404) 558-9065</p>
-                <p>Email: reagan.a.davenport@gmail.com</p>
+                <p>(404) 558-9065</p>
+                <p>reagan.a.davenport@gmail.com</p>
                 <a href='https://www.linkedin.com/in/reagan-davenport/'> <p>LinkedIn</p></a>
                 <a href='https://twitter.com/ReaganADavenpo1'><p>Twitter</p></a>
             </div>

@@ -14,7 +14,7 @@ import bamboo from '../../Images/bamboo.png';
 const Portfolio = () => {
     return(
         <div className="Porty">
-            <h1>Hi, I'm The Portfolio!</h1>
+            <h1>Portfolio</h1>
             <div className='Gallery'>
                 <Card projectImage={wen} projectName="Learn Mandarin" projectDescript="React, JavaScript, HTML, CSS"></Card>
                 <Card projectImage={leaf} projectName="DRC" projectDescript="Squarespace"></Card>
