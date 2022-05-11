@@ -9,6 +9,6 @@
 .Gallery{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
-    gap: 10px;
+    gap: 15px;
     grid-auto-rows: minmax(100px, auto);
 }
