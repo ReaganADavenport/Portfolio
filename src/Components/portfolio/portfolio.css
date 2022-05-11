@@ -6,6 +6,11 @@
     height: 100%;
 }
 
+.Porty h1{
+    display: flex;
+    justify-content: center;
+}
+
 .Gallery{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
