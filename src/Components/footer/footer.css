@@ -16,6 +16,10 @@
     margin-left: 35px;
 }
 
+.About p{
+    color:#2f4343;
+}
+
 .Portfolio{
     /* color: #4e706f; */
     color: #101616;

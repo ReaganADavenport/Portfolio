@@ -33,6 +33,7 @@ const Drc = () => {
                         <li>working within the constraits of WordPress</li>
                         <li>moving the site to Squarespace</li>
                         <li>managing employees' expectations</li>
+                        <li>Figuring out ecommerce and all the logistics that go with it</li>
                     </ul>
                 </div>
                 <img className='d-img-3' src={drc3}></img>
@@ -42,7 +43,8 @@ const Drc = () => {
                         <li>Gained experience using WordPress</li>
                         <li>Gained experience using Squarespace</li>
                         <li>Gained experience managing expectations</li>
-                        <li>in design, less is more</li>
+                        <li>Gained experience with creating a user-friendly ecommerce experience</li>
+                        <li>In design, less is more</li>
                         <li>Sometimes a solution isn't what the customer wanted, but it is what they need</li>
                     </ul>
                 </div>

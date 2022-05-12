@@ -29,11 +29,11 @@
 }
 
 .content h3{
-    color: #2f4343;
+    color: #101616;
 }
 
 .content h4{
-    color: #2f4343;
+    color: #101616;
 }
 
 .content p{
@@ -52,13 +52,13 @@
     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.3);
     margin: 20px;
     padding: 15px;
-    width: 33.3vw;
+    width: 30rem;
 }
 
 .m-img-1{
     border-radius: 15px;
     margin: 20px;
-    width: 33.3vw;
+    width: 30rem;
 }
 
 .m-img-2{
