@@ -17,7 +17,7 @@ const Portfolio = () => {
             <h1>Portfolio</h1>
             <div className='Gallery'>
                 <Card projectImage={wen} projectName="Learn Mandarin" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/mandarin"></Card>
-                <Card projectImage={leaf} projectName="DRC" projectDescript="Squarespace"></Card>
+                <Card projectImage={leaf} projectName="DRC" projectDescript="Squarespace" projectLink="/portfolio/drc"></Card>
                 <Card projectImage={calc} projectName="Typescript Calculator" projectDescript="React, Typescript"></Card>
                 <Card projectImage={cart} projectName="Shop App" projectDescript="React, JavaScript, HTML, CSS"></Card>
                 <Card projectImage={press} projectName="Press A to Begin" projectDescript="React, JavaScript, HTML, CSS, API"></Card>
