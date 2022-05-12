@@ -1,9 +1,4 @@
-.Drc{
-    display: flex;
-    justify-content: center;
-}
-
-.Drc h1{
+.drc h1{
     color: #101616;
     display: flex;
     justify-content: center;
