@@ -11,6 +11,7 @@ import Portfolio from './Components/portfolio/portfolio';
 import Contact from './Components/contact/contact';
 
 import Mandarin from './Components/mandarin/mandarin';
+import Drc from './Components/drc/drc';
 
 
 
@@ -24,6 +25,7 @@ function App() {
           <Route path="/about" element={<About></About>}></Route>
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
           <Route path="/portfolio/mandarin" element={<Mandarin></Mandarin>}></Route>
+          <Route path="/portfolio/drc" element={<Drc></Drc>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
