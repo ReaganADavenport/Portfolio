@@ -12,6 +12,7 @@ import Contact from './Components/contact/contact';
 
 import Mandarin from './Components/mandarin/mandarin';
 import Drc from './Components/drc/drc';
+import Calculator from './Components/calculator/calc';
 
 
 
@@ -26,6 +27,7 @@ function App() {
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
           <Route path="/portfolio/mandarin" element={<Mandarin></Mandarin>}></Route>
           <Route path="/portfolio/drc" element={<Drc></Drc>}></Route>
+          <Route path="/portfolio/calculator" element={<Calculator></Calculator>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
