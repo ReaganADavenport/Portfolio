@@ -43,7 +43,7 @@ const Calculator = () => {
                         <li>To be confident in extending a project based on what I learned</li>
                     </ul>
                 </div>
-                <div className='m-block-4'>
+                <div className='c-block-4'>
                     <h4>Please Checkout My Code Here:</h4>
                     <a href="https://github.com/ReaganADavenport/Typescript_Calculator"><p>GitHub Typescript Calculator</p></a>
                     
