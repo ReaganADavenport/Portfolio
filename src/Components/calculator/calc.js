@@ -20,6 +20,7 @@ const Calculator = () => {
                     <p>My aim with this project was: </p>
                     <ul>
                         <li>To build a full project with Typescript</li>
+                        <li>To make a calculator that could do addition, subtraction, multiplication, and division</li>
                         <li>To remind myself how to make and run unit tests</li>
                         <li>To extend the project based on what I learned</li>
                     </ul>
