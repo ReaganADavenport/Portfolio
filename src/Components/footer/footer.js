@@ -20,7 +20,7 @@ const Footer = () => {
                 <a href='/portfolio'> <h4>Portfolio</h4> </a>
                 <div className='portfolio-container'>
                     <a href="https://github.com/ReaganADavenport"> <img src={github}></img> </a>
-                    <a href='https://medium.com/@reagan.a.davenport'> <img src={medium}></img> </a>
+                    <a href='https://medium.com/@reagan.a.davenport'> <img src={medium} className="medium"></img> </a>
                 </div>
                 
             </div>

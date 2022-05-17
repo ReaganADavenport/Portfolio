@@ -29,13 +29,17 @@
 .portfolio-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(13px, 1fr));
-    gap: 20px;
+    gap: 30px;
     grid-auto-rows: minmax(50px, auto);
     margin-right: 20px;
 }
 
 .Portfolio img{
     width: 2rem;
+}
+
+.medium{
+    margin-top: 9px;
 }
 
 .Contact{
@@ -52,6 +56,7 @@
 }
 
 .phone {
+    margin-top: 9px;
     width: 2rem;
 }
 
@@ -64,6 +69,7 @@
 }
 
 .twitter{
+    margin-left: 8px;
     width: 2rem;
 }
 
