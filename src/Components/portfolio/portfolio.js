@@ -20,7 +20,7 @@ const Portfolio = () => {
                 <Card projectImage={leaf} projectName="DRC" projectDescript="Squarespace" projectLink="/portfolio/drc"></Card>
                 <Card projectImage={calc} projectName="Typescript Calculator" projectDescript="React, Typescript" projectLink="/portfolio/calculator"></Card>
                 <Card projectImage={cart} projectName="Shop App" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/shop"></Card>
-                <Card projectImage={press} projectName="Press A to Begin" projectDescript="React, JavaScript, HTML, CSS, API"></Card>
+                <Card projectImage={press} projectName="Press A to Begin" projectDescript="React, JavaScript, HTML, CSS, API" projectLink="/portfolio/press"></Card>
                 <Card projectImage={bamboo} projectName="Swaying Bamboo" projectDescript="React, Javascript, HTML, CSS"></Card>
             </div>
             
