@@ -15,6 +15,7 @@ import Drc from './Components/drc/drc';
 import Calculator from './Components/calculator/calc';
 import Shop from './Components/shop/shop';
 import Press from './Components/press/press';
+import Bamboo from './Components/bamboo/bamboo';
 
 
 
@@ -32,6 +33,7 @@ function App() {
           <Route path="/portfolio/calculator" element={<Calculator></Calculator>}></Route>
           <Route path="/portfolio/shop" element={<Shop></Shop>}></Route>
           <Route path="/portfolio/press" element={<Press></Press>}></Route>
+          <Route path="/portfolio/bamboo" element={<Bamboo></Bamboo>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
