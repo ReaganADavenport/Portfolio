@@ -37,8 +37,8 @@ const Press = () => {
                     <h3>What I Learned</h3>
                     <ul>
                         <li>ALWAYS have a plan or at least a design in mind</li>
-                        <li>Know who this is being aimed towards</li>
-                        <li>How to make a glowing neon sign in CSS</li>
+                        <li>Know your audience</li>
+                        <li>How to create a glowing neon sign in CSS</li>
                     </ul>
                 </div>
                 <div className='p-block-4'>
