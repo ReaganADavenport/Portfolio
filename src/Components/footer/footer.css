@@ -23,22 +23,48 @@
 .Portfolio{
     /* color: #4e706f; */
     color: #101616;
-    margin-right: 20px;
     margin-left: 20px;
 }
 
-.Portfolio p{
-    color: #2f4343;
+.portfolio-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13px, 1fr));
+    gap: 20px;
+    grid-auto-rows: minmax(50px, auto);
+    margin-right: 20px;
+}
+
+.Portfolio img{
+    width: 2rem;
 }
 
 .Contact{
     /* color: #4e706f; */
-    color: #101616;
     margin-right: 35px;
 }
 
-.Contact p{
-    color: #2f4343;
+.contact-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13px, 1fr));
+    gap: 30px;
+    grid-auto-rows: minmax(50px, auto);
+    margin-right: 35px;
+}
+
+.phone {
+    width: 2rem;
+}
+
+.email{
+    width: 3.5rem;
+}
+
+.linkedin{
+    width: 2rem;
+}
+
+.twitter{
+    width: 2rem;
 }
 
 .Footer a{

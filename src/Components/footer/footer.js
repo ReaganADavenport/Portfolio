@@ -1,7 +1,12 @@
 import React from 'react';
 import './footer.css'
 
-
+import github from "../../Images/github-logo.png";
+import medium from "../../Images/medium-logo.png";
+import phone from "../../Images/phone-logo.png";
+import email from "../../Images/email-logo.png";
+import linkedin from "../../Images/linkedin-logo.png";
+import twitter from "../../Images/twitter-logo.png";
 
 const Footer = () => {
     return(
@@ -13,16 +18,22 @@ const Footer = () => {
             </div>
             <div className='Portfolio'>
                 <a href='/portfolio'> <h4>Portfolio</h4> </a>
-                <a href="https://github.com/ReaganADavenport"> <p>GitHub</p> </a>
-                <a href='https://medium.com/@reagan.a.davenport'> <p>Medium</p> </a>
+                <div className='portfolio-container'>
+                    <a href="https://github.com/ReaganADavenport"> <img src={github}></img> </a>
+                    <a href='https://medium.com/@reagan.a.davenport'> <img src={medium}></img> </a>
+                </div>
+                
             </div>
                 
             <div className='Contact'>
                 <a href='/Contact'> <h4>Contact</h4> </a>
-                <p>(404) 558-9065</p>
-                <p>reagan.a.davenport@gmail.com</p>
-                <a href='https://www.linkedin.com/in/reagan-davenport/'> <p>LinkedIn</p></a>
-                <a href='https://twitter.com/ReaganADavenpo1'><p>Twitter</p></a>
+                <div className='contact-container'>
+                    <a href="tel:404-558-9065"> <img src={phone} className="phone"></img> </a>
+                    <a href="mailto:reagan.a.davenport@gmail.com"> <img src={email} className="email"></img></a>
+                    <a href='https://www.linkedin.com/in/reagan-davenport/'> <img src={linkedin} className="linkedin"></img> </a>
+                    <a href='https://twitter.com/ReaganADavenpo1'> <img src={twitter} className="twitter"></img> </a>
+                </div>
+                
             </div>
                 
             
