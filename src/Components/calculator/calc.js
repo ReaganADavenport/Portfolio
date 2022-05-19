@@ -19,10 +19,10 @@ const Calculator = () => {
                     <h3>Project Goal</h3> 
                     <p>My aim with this project was: </p>
                     <ul>
-                        <li>To build a full project with Typescript</li>
-                        <li>To make a calculator that could do addition, subtraction, multiplication, and division</li>
-                        <li>To remind myself how to make and run unit tests</li>
-                        <li>To extend the project based on what I learned</li>
+                        <li>To build an entire project with Typescript in React</li>
+                        <li>To make a calculator with functionality to handle addition and subtraction</li>
+                        <li>To refresh myself on how to code and run unit tests</li>
+                        <li>To expand the project to include multiplication and division</li>
                     </ul>
                 </div>
                 <img className='c-img-1' src={calc1}></img>
@@ -30,8 +30,8 @@ const Calculator = () => {
                 <div className='c-block-2'>
                     <h3>Challenges</h3>
                     <ul>
-                        <li>I'd never used Typescript with React, so I was flying a little blind</li>
-                        <li>I forgot how to write and run Unit Tests</li>
+                        <li>I'd never used Typescript with React before</li>
+                        <li>To remember how to write and run Unit Tests</li>
                     </ul>
                 </div>
                 <img className='c-img-3' src={calc3}></img>

@@ -19,12 +19,12 @@
     color: #2f4343;
     display: flex;
     flex-direction: row;
-    margin-right: 5px;
+    margin-right: 3px;
 }
 
 .Links p{
     color: #2f4343;
-    margin: 15px;
+    margin: 5px;
 }
 
 .Links a{

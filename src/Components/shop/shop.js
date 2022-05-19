@@ -29,9 +29,9 @@ const Shop = () => {
                 <div className='s-block-2'>
                     <h3>Challenges</h3>
                     <ul>
-                        <li>Not knowing where to start to make the badge for the shopping cart</li>
-                        <li>Getting CSS Grid to look right</li>
-                        <li>Getting the mobile version to look good</li>
+                        <li>Deciding where and how to begin to create the badge for the shopping cart</li>
+                        <li>Getting CSS Grid to look propotional</li>
+                        <li>Getting the app to be responsive</li>
                         <li>Finding a background image that would suit the app</li>
                     </ul>
                 </div>
@@ -39,9 +39,9 @@ const Shop = () => {
                 <div className='s-block-3'>
                     <h3>What I Learned</h3>
                     <ul>
-                        <li>how to make a shopping cart with a badge that counts the number of items in the cart</li>
+                        <li>how to build a shopping cart with a badge that displays the number of items in the cart</li>
                         <li>how to use CSS Grid</li>
-                        <li>if you aren't satisfied with a background, it probably isn't the right one for the site</li>
+                        <li>finding the right background image is essential to creating the right atmosphere</li>
                     </ul>
                 </div>
                 <div className='s-block-4'>
