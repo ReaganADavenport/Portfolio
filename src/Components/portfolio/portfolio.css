@@ -16,4 +16,5 @@
     grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
     gap: 15px;
     grid-auto-rows: minmax(100px, auto);
+    min-height: 75vh;
 }
