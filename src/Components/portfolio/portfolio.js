@@ -9,6 +9,7 @@ import calc from '../../Images/calc.png';
 import cart from '../../Images/shop-cart.png';
 import press from '../../Images/press-a.png';
 import bamboo from '../../Images/bamboo.png';
+import weather from '../../Images/weather.png';
 
 
 const Portfolio = () => {
@@ -22,6 +23,7 @@ const Portfolio = () => {
                 <Card projectImage={cart} projectName="Shop App" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/shop"></Card>
                 <Card projectImage={press} projectName="Press A to Begin" projectDescript="React, JavaScript, HTML, CSS, API" projectLink="/portfolio/press"></Card>
                 <Card projectImage={bamboo} projectName="Swaying Bamboo" projectDescript="React, Javascript, HTML, CSS" projectLink="/portfolio/bamboo"></Card>
+                <Card projectImage={weather} projectName="Weather App" projectDescript="React, JavaScript, HTML, CSS, API" projectLink="/portfolio/weather"></Card>
             </div>
             
         </div>
