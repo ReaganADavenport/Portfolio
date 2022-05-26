@@ -29,7 +29,7 @@ const Weather = () => {
                     <h3>Challenges</h3>
                     <ul>
                         <li>Finding an API that didn't require the user to input their latitude and longitude</li>
-                        <li>Deciding on a reason able cutoff temperature for the background to change to hot</li>
+                        <li>Deciding on a reasonable cutoff temperature for the background to change to hot</li>
                         <li>A weird bug where the app wouldn't load without a line of code, but wouldn't run with it</li>
                     </ul>
                 </div>
@@ -47,7 +47,7 @@ const Weather = () => {
                     <a href="https://github.com/ReaganADavenport/weather-app"><p>GitHub Weather Application</p></a>
                     
                     <h4>Checkout the Demo Video:</h4>
-                    <a href='https://youtube.com/shorts/3DH9HWKU9AI?feature=share'><p>Weather App Demo</p></a>
+                    <a href='https://youtube.com/shorts/Y6xNQ6waaYU?feature=share'><p>Weather App Demo</p></a>
 
                 </div>
                 
