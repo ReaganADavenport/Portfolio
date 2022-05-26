@@ -16,6 +16,7 @@ import Calculator from './Components/calculator/calc';
 import Shop from './Components/shop/shop';
 import Press from './Components/press/press';
 import Bamboo from './Components/bamboo/bamboo';
+import Weather from './Components/weather/weather';
 
 
 
@@ -34,6 +35,7 @@ function App() {
           <Route path="/portfolio/shop" element={<Shop></Shop>}></Route>
           <Route path="/portfolio/press" element={<Press></Press>}></Route>
           <Route path="/portfolio/bamboo" element={<Bamboo></Bamboo>}></Route>
+          <Route path="/portfolio/weather" element={<Weather></Weather>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
