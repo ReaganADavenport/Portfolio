@@ -11,7 +11,7 @@ class Card extends Component {
       
         <div className="Card">
           <a href={projectLink}>
-            <img className='ProjectImage' src={projectImage}></img>
+            <img className='ProjectImage' src={projectImage} alt='projectImage'></img>
 
             <h3>{projectName}</h3>
 
