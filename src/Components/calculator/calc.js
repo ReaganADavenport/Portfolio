@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './calc.css';
 import calc1 from '../../Images/calc1.png';
 import calc2 from '../../Images/calc2.png';

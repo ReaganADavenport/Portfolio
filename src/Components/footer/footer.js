@@ -19,8 +19,8 @@ const Footer = () => {
             <div className='Portfolio'>
                 <a href='/portfolio'> <h4>Portfolio</h4> </a>
                 <div className='portfolio-container'>
-                    <a href="https://github.com/ReaganADavenport"> <img src={github} className='github'></img> </a>
-                    <a href='https://medium.com/@reagan.a.davenport'> <img src={medium} className="medium"></img> </a>
+                    <a href="https://github.com/ReaganADavenport"> <img src={github} className='github' alt='githut'></img> </a>
+                    <a href='https://medium.com/@reagan.a.davenport'> <img src={medium} className="medium" alt='medium'></img> </a>
                 </div>
                 
             </div>
@@ -28,10 +28,10 @@ const Footer = () => {
             <div className='Contact'>
                 <a href='/Contact'> <h4>Contact</h4> </a>
                 <div className='contact-container'>
-                    <a href="tel:404-558-9065"> <img src={phone} className="phone"></img> </a>
-                    <a href="mailto:reagan.a.davenport@gmail.com"> <img src={email} className="email"></img></a>
-                    <a href='https://www.linkedin.com/in/reagan-davenport/'> <img src={linkedin} className="linkedin"></img> </a>
-                    <a href='https://twitter.com/ReaganADavenpo1'> <img src={twitter} className="twitter"></img> </a>
+                    <a href="tel:404-558-9065"> <img src={phone} className="phone" alt="phone"></img> </a>
+                    <a href="mailto:reagan.a.davenport@gmail.com"> <img src={email} className="email" alt="email"></img></a>
+                    <a href='https://www.linkedin.com/in/reagan-davenport/'> <img src={linkedin} className="linkedin" alt='linkedin'></img> </a>
+                    <a href='https://twitter.com/ReaganADavenpo1'> <img src={twitter} className="twitter" alt='twitter'></img> </a>
                 </div>
                 
             </div>
