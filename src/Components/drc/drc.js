@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './drc.css';
 
 import drc1 from "../../Images/drc1.png";
@@ -25,8 +25,8 @@ const Drc = () => {
                         <li>Reconfigured the website to allow for a more elegant and user-friendly mobile experience for the users</li>
                     </ul>
                 </div>
-                <img className='d-img-1' src={drc1}></img>
-                <img className='d-img-2' src={drc2}></img>
+                <img className='d-img-1' src={drc1} alt="drc1"></img>
+                <img className='d-img-2' src={drc2} alt="drc2"></img>
                 <div className='d-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -36,7 +36,7 @@ const Drc = () => {
                         <li>Figuring out ecommerce and all the logistics that go with it</li>
                     </ul>
                 </div>
-                <img className='d-img-3' src={drc3}></img>
+                <img className='d-img-3' src={drc3} alt="drc3"></img>
                 <div className='d-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

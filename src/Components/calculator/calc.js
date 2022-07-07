@@ -25,8 +25,8 @@ const Calculator = () => {
                         <li>To expand the project to include multiplication and division</li>
                     </ul>
                 </div>
-                <img className='c-img-1' src={calc1}></img>
-                <img className='c-img-2' src={calc2}></img>
+                <img className='c-img-1' src={calc1} alt="calc1"></img>
+                <img className='c-img-2' src={calc2} alt="calc2"></img>
                 <div className='c-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -34,7 +34,7 @@ const Calculator = () => {
                         <li>To remember how to write and run Unit Tests</li>
                     </ul>
                 </div>
-                <img className='c-img-3' src={calc3}></img>
+                <img className='c-img-3' src={calc3} alt="calc3"></img>
                 <div className='c-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

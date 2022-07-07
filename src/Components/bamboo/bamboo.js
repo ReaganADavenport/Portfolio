@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './bamboo.css';
 import bamboo1 from '../../Images/bamboo1.png';
 import bamboo2 from '../../Images/bamboo2.png';
@@ -23,8 +23,8 @@ const Bamboo = () => {
                         <li>Learn how to do animations in CSS</li>
                     </ul>
                 </div>
-                <img className='b-img-1' src={bamboo1}></img>
-                <img className='b-img-2' src={bamboo2}></img>
+                <img className='b-img-1' src={bamboo1} alt="bamboo1"></img>
+                <img className='b-img-2' src={bamboo2} alt="bamboo2"></img>
                 <div className='b-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -32,7 +32,7 @@ const Bamboo = () => {
                         <li>Had no idea where to look to find out where to start</li>
                     </ul>
                 </div>
-                <img className='b-img-3' src={bamboo3}></img>
+                <img className='b-img-3' src={bamboo3} alt="bamboo3"></img>
                 <div className='b-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

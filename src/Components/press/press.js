@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './press.css';
 import press1 from '../../Images/press1.png';
 import press2 from '../../Images/press2.png';
@@ -23,8 +23,8 @@ const Press = () => {
                         <li>To make a referance guide for the "relics" mentioned in the book</li>
                     </ul>
                 </div>
-                <img className='p-img-1' src={press1}></img>
-                <img className='p-img-2' src={press2}></img>
+                <img className='p-img-1' src={press1} alt="press1"></img>
+                <img className='p-img-2' src={press2} alt="press2"></img>
                 <div className='p-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -32,7 +32,7 @@ const Press = () => {
                         <li>There was no clear design</li>
                     </ul>
                 </div>
-                <img className='p-img-3' src={press3}></img>
+                <img className='p-img-3' src={press3} alt="press3"></img>
                 <div className='p-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

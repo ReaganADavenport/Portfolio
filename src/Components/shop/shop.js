@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './shop.css';
 import shop1 from '../../Images/shop1.png';
 import shop2 from '../../Images/shop2.png';
@@ -24,8 +24,8 @@ const Shop = () => {
                         <li>To make a shopping cart with a badge showing the number of items in the cart</li>
                     </ul>
                 </div>
-                <img className='s-img-1' src={shop1}></img>
-                <img className='s-img-2' src={shop2}></img>
+                <img className='s-img-1' src={shop1} alt="shop1"></img>
+                <img className='s-img-2' src={shop2} alt="shop2"></img>
                 <div className='s-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -35,7 +35,7 @@ const Shop = () => {
                         <li>Finding a background image that would suit the app</li>
                     </ul>
                 </div>
-                <img className='s-img-3' src={shop3}></img>
+                <img className='s-img-3' src={shop3} alt="shop3"></img>
                 <div className='s-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

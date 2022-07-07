@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './mandarin.css';
 import mandarin1 from '../../Images/mandarin1.png';
 import mandarin2 from '../../Images/mandarin2.png';
@@ -24,8 +24,8 @@ const Mandarin = () => {
                         <li>finally test yourself on writing characters</li>
                     </ul>
                 </div>
-                <img className='m-img-1' src={mandarin1}></img>
-                <img className='m-img-2' src={mandarin2}></img>
+                <img className='m-img-1' src={mandarin1} alt="mandarin1"></img>
+                <img className='m-img-2' src={mandarin2} alt="mandarin2"></img>
                 <div className='m-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -33,7 +33,7 @@ const Mandarin = () => {
                         <li>The real trouble came when I wanted to compare written Chinese to an image. I needed it to be sensitive enough to pick up when someone wrote the wrong character, but not too sensitive to ding someone who wrote in the correct character.</li>
                     </ul>
                 </div>
-                <img className='m-img-3' src={mandarin3}></img>
+                <img className='m-img-3' src={mandarin3} alt="mandarin3"></img>
                 <div className='m-block-3'>
                     <h3>What I Learned</h3>
                     <ul>

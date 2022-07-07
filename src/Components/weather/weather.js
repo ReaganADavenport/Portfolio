@@ -1,4 +1,4 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './weather.css';
 import weather1 from '../../Images/weather1.png';
 import weather2 from '../../Images/weather2.png';
@@ -23,8 +23,8 @@ const Weather = () => {
                         <li>To have the background change depending on the temperature</li>
                     </ul>
                 </div>
-                <img className='w-img-1' src={weather1}></img>
-                <img className='w-img-2' src={weather2}></img>
+                <img className='w-img-1' src={weather1} alt="weather1"></img>
+                <img className='w-img-2' src={weather2} alt="weather2"></img>
                 <div className='w-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -33,7 +33,7 @@ const Weather = () => {
                         <li>A weird bug where the app wouldn't load without a line of code, but wouldn't run with it</li>
                     </ul>
                 </div>
-                <img className='w-img-3' src={weather3}></img>
+                <img className='w-img-3' src={weather3} alt="weather3"></img>
                 <div className='w-block-3'>
                     <h3>What I Learned</h3>
                     <ul>
