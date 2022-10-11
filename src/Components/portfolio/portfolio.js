@@ -10,7 +10,7 @@ import cart from '../../Images/shop-cart.png';
 import press from '../../Images/press-a.png';
 import bamboo from '../../Images/bamboo.png';
 import weather from '../../Images/weather.png';
-import hummingbird from '../../images/humming.png';
+import hummingbird from '../../Images/humming.png';
 
 
 const Portfolio = () => {
