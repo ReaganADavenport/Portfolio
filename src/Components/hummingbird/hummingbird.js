@@ -43,11 +43,11 @@ const Hummingbird = () => {
                     </ul>
                 </div>
                 <div className='h-block-4'>
-                    <h4>Checkout My Code Here:</h4>
+                    {/* <h4>Checkout My Code Here:</h4>
                     <a href=""><p>GitHub Hummingbird Café Application</p></a>
                     
                     <h4>Checkout the Demo Video:</h4>
-                    <a href=''><p>Hummingbird Café App Demo</p></a>
+                    <a href=''><p>Hummingbird Café App Demo</p></a> */}
 
                 </div>
                 
