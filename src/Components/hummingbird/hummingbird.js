@@ -42,10 +42,10 @@ const Hummingbird = () => {
                 </div>
                 <div className='h-block-4'>
                     <h4>Checkout My Code Here:</h4>
-                    {/* <a href=""><p>GitHub Hummingbird Café Application</p></a> */}
+                    <a href="https://github.com/ReaganADavenport/hummingbird-cafe"><p>GitHub Hummingbird Café Application</p></a>
                     
                     <h4>Checkout the Demo Video:</h4>
-                    {/* <a href=''><p>Hummingbird Café App Demo</p></a> */}
+                    <a href='https://www.youtube.com/watch?v=1YZ0V0PKmq8'><p>Hummingbird Café App Demo</p></a>
 
                 </div>
                 
