@@ -17,7 +17,7 @@ import Shop from './Components/shop/shop';
 import Press from './Components/press/press';
 import Bamboo from './Components/bamboo/bamboo';
 import Weather from './Components/weather/weather';
-import Hummingbird from './components/hummingbird/hummingbird';
+import Hummingbird from './Components/hummingbird/hummingbird';
 
 
 
