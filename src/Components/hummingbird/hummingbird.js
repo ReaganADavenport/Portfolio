@@ -1,8 +1,8 @@
 import React from 'react';
 import './hummingbird.css';
-// import weather1 from '../../Images/weather1.png';
-// import weather2 from '../../Images/weather2.png';
-// import weather3 from '../../Images/weather3.png';
+import humming1 from '../../Images/humming1.png';
+import humming2 from '../../Images/humming2';
+import humming3 from '../../Images/humming3';
 
 
 
@@ -23,8 +23,8 @@ const Hummingbird = () => {
                         <li>To have steam come off the hot drinks</li>
                     </ul>
                 </div>
-                <img className='h-img-1' src={""} alt="humming1"></img>
-                <img className='h-img-2' src={""} alt="humming2"></img>
+                <img className='h-img-1' src={humming1} alt="humming1"></img>
+                <img className='h-img-2' src={humming2} alt="humming2"></img>
                 <div className='h-block-2'>
                     <h3>Challenges</h3>
                     <ul>
@@ -32,7 +32,7 @@ const Hummingbird = () => {
                         
                     </ul>
                 </div>
-                <img className='h-img-3' src={""} alt="humming3"></img>
+                <img className='h-img-3' src={humming3} alt="humming3"></img>
                 <div className='h-block-3'>
                     <h3>What I Learned</h3>
                     <ul>
