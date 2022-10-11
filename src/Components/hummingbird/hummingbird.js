@@ -1,8 +1,8 @@
 import React from 'react';
 import './hummingbird.css';
 import humming1 from '../../Images/humming1.png';
-import humming2 from '../../Images/humming2';
-import humming3 from '../../Images/humming3';
+import humming2 from '../../Images/humming2.png';
+import humming3 from '../../Images/humming3.png';
 
 
 
