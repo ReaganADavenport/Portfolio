@@ -18,6 +18,7 @@ import Press from './Components/press/press';
 import Bamboo from './Components/bamboo/bamboo';
 import Weather from './Components/weather/weather';
 import Hummingbird from './Components/hummingbird/hummingbird';
+import Radicals from './Components/radicals/radicals';
 
 
 
@@ -38,6 +39,7 @@ function App() {
           <Route path="/portfolio/bamboo" element={<Bamboo></Bamboo>}></Route>
           <Route path="/portfolio/weather" element={<Weather></Weather>}></Route>
           <Route path="/portfolio/hummingbird" element={<Hummingbird></Hummingbird>}></Route>
+          <Route path="/portfolio/radicals" element={<Radicals></Radicals>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
         <Footer></Footer>
