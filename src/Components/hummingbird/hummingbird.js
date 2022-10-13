@@ -13,7 +13,7 @@ const Hummingbird = () => {
             <div className='content'>
                 <div className='highlights'>
                     <h2>Highlights:</h2>
-                    <p>React, HTML, CSS, JavaScript</p>
+                    <p>React, CSS, HTML JavaScript</p>
                 </div>
                 <div className='h-block-1'>
                     <h3>Project Goal</h3> 
@@ -28,15 +28,17 @@ const Hummingbird = () => {
                 <div className='h-block-2'>
                     <h3>Challenges</h3>
                     <ul>
-                        <li></li>
-                        
+                        <li>Figuring out how to put multiple colors in one div: stripes!</li>
+                        <li>Finding a how to make steam in CSS that wasn't outdated</li>
+        
                     </ul>
                 </div>
                 <img className='h-img-3' src={humming3} alt="humming3"></img>
                 <div className='h-block-3'>
                     <h3>What I Learned</h3>
                     <ul>
-                        <li></li>
+                        <li>There is always a way to recreate something you see</li>
+                        <li>It might take you longer if you use a different language</li>
                         
                     </ul>
                 </div>
