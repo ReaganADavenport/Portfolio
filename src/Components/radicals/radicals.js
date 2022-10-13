@@ -19,9 +19,10 @@ const Radicals = () => {
                     <h3>Project Goal</h3> 
                     <p>My aim with this project was: </p>
                     <ul>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li>recreate Learn Mandarin, but better</li>
+                        <li>more specifically, with better cards, that show what you guessed so that the user can learn from their mistakes</li>
+                        <li>also make it look better with styles</li>
+                        <li>is it possible to make this app without a backend? (Spoiler: yes!)</li>
                     </ul>
                 </div>
                 <img className='r-img-1' src={radicals1} alt="radicals1"></img>
@@ -29,23 +30,23 @@ const Radicals = () => {
                 <div className='r-block-2'>
                     <h3>Challenges</h3>
                     <ul>
-                        <li></li>
-                        <li></li>
+                        <li>Trying to remember how I did it last time</li>
+                        <li>How to build without a backend</li>
                     </ul>
                 </div>
                 <img className='r-img-3' src={radicals3} alt="radicals3"></img>
                 <div className='r-block-3'>
                     <h3>What I Learned</h3>
                     <ul>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li>I am a better web developer than the me that just left bootcamp</li>
+                        <li>I've grown and improved as a coder in that time</li>
+                        <li>How to make a backend, without a backend</li>
                     </ul>
                 </div>
                 <div className='r-block-4'>
                     <h4>Please Checkout My Code Here:</h4>
-                    <a href="https://github.com/ReaganADavenport/learn-mandarin-client"><p>GitHub Client-Side</p></a>
-                    <a href="https://github.com/ReaganADavenport/learn-mandarin-api"><p>GitHub API</p></a>
+                    <a href="https://github.com/ReaganADavenport/Learning-Radicals"><p>GitHub Repo</p></a>
+                    <a href="https://www.youtube.com/watch?v=vJXXCwyScaw"><p>Demo Video</p></a>
                 </div>
                 
                 
