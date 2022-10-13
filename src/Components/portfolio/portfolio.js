@@ -11,6 +11,7 @@ import press from '../../Images/press-a.png';
 import bamboo from '../../Images/bamboo.png';
 import weather from '../../Images/weather.png';
 import hummingbird from '../../Images/humming.png';
+import plum from '../../Images/radicals-logo.png';
 
 
 const Portfolio = () => {
@@ -18,6 +19,7 @@ const Portfolio = () => {
         <div className="Porty">
             <h1>Portfolio</h1>
             <div className='Gallery'>
+                <Card projectImage={plum} projectName="Learning Radicals" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/radicals"></Card>
                 <Card projectImage={wen} projectName="Learn Mandarin" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/mandarin"></Card>
                 <Card projectImage={leaf} projectName="DRC" projectDescript="Squarespace" projectLink="/portfolio/drc"></Card>
                 <Card projectImage={calc} projectName="Typescript Calculator" projectDescript="React, Typescript" projectLink="/portfolio/calculator"></Card>
