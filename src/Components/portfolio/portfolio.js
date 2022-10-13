@@ -11,7 +11,7 @@ import press from '../../Images/press-a.png';
 import bamboo from '../../Images/bamboo.png';
 import weather from '../../Images/weather.png';
 import hummingbird from '../../Images/humming.png';
-import plum from '../../Images/radicals-logo.png';
+import plum from '../../Images/radicals.png';
 
 
 const Portfolio = () => {
