@@ -1,5 +1,5 @@
 import React from 'react';
-import './mandarin.css';
+import './radicals.css';
 import radicals1 from '../../Images/radicals1.png';
 import radicals2 from '../../Images/radicals2.png';
 import radicals3 from '../../Images/radicals3.png';
