@@ -1,3 +1,17 @@
+# Reagan A Davenport's Portfolio
+
+Portfolio is a responsive multi-page React application with a gallery of different projects I have worked on, my goals in making them, things I struggled with, and things I learned from the experience.
+
+To check out the live site go here: https://reaganadavenport.netlify.app
+
+If it is down for whatever reason here are some screenshots:
+
+![Screenshot] (images/Screenshot 1.png?raw=true "Landing Page")
+
+![Screenshot] (images/Screenshot 2.png?raw=true "Portfolio Gallery")
+
+![Screengif] (images/screenrecording.gif "Screenrecording of Project page")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
