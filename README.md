@@ -6,11 +6,11 @@ To check out the live site go here: https://reaganadavenport.netlify.app
 
 If it is down for whatever reason here are some screenshots:
 
-<img src="src/images/Screenshot 1.png" alt="Landing Page">
+<img src="src/Images/Screenshot 1.png" alt="Landing Page">
 
-<img src="src/images/Screenshot 2.png" alt="Portfolio Gallery Page">
+<img src="src/Images/Screenshot 2.png" alt="Portfolio Gallery Page">
 
-<img src="scr/images/screenrecording.gif" alt="screenrecording of a project page">
+<img src="scr/Images/screenrecording.gif" alt="screenrecording of a project page">
 
 # Getting Started with Create React App
 
