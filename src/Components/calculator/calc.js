@@ -47,7 +47,7 @@ const Calculator = () => {
                     <h4>Please Checkout My Code Here:</h4>
                     <a href="https://github.com/ReaganADavenport/Typescript_Calculator"><p>GitHub Typescript Calculator</p></a>
                     
-                    <h4>Checkout the Demo Videos:</h4>
+                    <h4>Checkout the Demo Video:</h4>
                     <a href='https://youtube.com/shorts/3U6J98gFvPQ?feature=share'><p>Calculator</p></a>
                 </div>
                 
