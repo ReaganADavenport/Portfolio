@@ -48,8 +48,7 @@ const Calculator = () => {
                     <a href="https://github.com/ReaganADavenport/Typescript_Calculator"><p>GitHub Typescript Calculator</p></a>
                     
                     <h4>Checkout the Demo Videos:</h4>
-                    <a href='https://youtu.be/vlXVfDkdum4'><p>Calculator - Addition</p></a>
-                    <a href='https://youtube.com/shorts/kK2cs4tamAY?feature=share'><p>Calculator - Multiplication + Division</p></a>
+                    <a href='https://youtube.com/shorts/3U6J98gFvPQ?feature=share'><p>Calculator</p></a>
                 </div>
                 
                 
