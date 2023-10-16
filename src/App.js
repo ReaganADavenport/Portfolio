@@ -14,11 +14,9 @@ import Mandarin from './Components/mandarin/mandarin';
 import Drc from './Components/drc/drc';
 import Calculator from './Components/calculator/calc';
 import Shop from './Components/shop/shop';
-import Press from './Components/press/press';
-import Bamboo from './Components/bamboo/bamboo';
 import Weather from './Components/weather/weather';
 import Hummingbird from './Components/hummingbird/hummingbird';
-import Radicals from './Components/radicals/radicals';
+import Radicals from './components/radicals/radicals';
 
 
 
@@ -35,8 +33,6 @@ function App() {
           <Route path="/portfolio/drc" element={<Drc></Drc>}></Route>
           <Route path="/portfolio/calculator" element={<Calculator></Calculator>}></Route>
           <Route path="/portfolio/shop" element={<Shop></Shop>}></Route>
-          <Route path="/portfolio/press" element={<Press></Press>}></Route>
-          <Route path="/portfolio/bamboo" element={<Bamboo></Bamboo>}></Route>
           <Route path="/portfolio/weather" element={<Weather></Weather>}></Route>
           <Route path="/portfolio/hummingbird" element={<Hummingbird></Hummingbird>}></Route>
           <Route path="/portfolio/radicals" element={<Radicals></Radicals>}></Route>
