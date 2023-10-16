@@ -16,7 +16,7 @@ import Calculator from './Components/calculator/calc';
 import Shop from './Components/shop/shop';
 import Weather from './Components/weather/weather';
 import Hummingbird from './Components/hummingbird/hummingbird';
-import Radicals from './components/radicals/radicals';
+import Radicals from './Components/radicals/radicals';
 
 
 
