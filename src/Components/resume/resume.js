@@ -2,7 +2,6 @@ import React from 'react';
 import './resume.css';
 
 
-
 const Resume = () => {
     return(
         <div className="Resume">
@@ -27,7 +26,27 @@ const Resume = () => {
                     <ul>
                         <li></li>
                     </ul>
-
+                <h2>Christopoulos & Kennedy General Contractors - Web Developer Consultant - April 2021 - July 2021</h2>
+                <ul>
+                        <li>Researched and compiled a list of features and visual design elements to improve their current site</li>
+                        <li>Spearheaded an update to the home page to stream-line the design and fix bugs</li>
+                        <li>Analyzed competitors’ websites for visual design elements that could be used to improve client’s website</li>
+                    </ul>
+                <h3>What I Learned</h3>
+                    <ul>
+                        <li></li>
+                    </ul>
+                    <h2>Diakonia Retreat Center - Software Engineer - January 2020 - April 2021</h2>
+                    <ul>
+                        <li>40% increase in sales from automating, streamlining the ordering process, and freeing up staff</li>
+                        <li>Designed and developed a custom e-commerce website</li>
+                        <li>Reconfigured the website to allow for a more elegant and user-friendly mobile experience</li>
+                        <li>Managed content, streamlining e-commerce and fulfillment process</li>
+                    </ul>
+                <h3>What I Learned</h3>
+                    <ul>
+                        <li></li>
+                    </ul>
             
         </div>
     )

@@ -7,6 +7,7 @@ import Nav from './Components/navbar/navbar';
 import Footer from './Components/footer/footer';
 import Home from './Components/home/home';
 import About from './Components/about/about';
+import Resume from './Components/resume/resume';
 import Portfolio from './Components/portfolio/portfolio';
 import Contact from './Components/contact/contact';
 
@@ -28,6 +29,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home></Home>}></Route>
           <Route path="/about" element={<About></About>}></Route>
+          <Route path="/resume" element={<Resume></Resume>}></Route>
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
           <Route path="/portfolio/mandarin" element={<Mandarin></Mandarin>}></Route>
           <Route path="/portfolio/drc" element={<Drc></Drc>}></Route>
