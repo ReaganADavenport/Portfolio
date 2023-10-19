@@ -6,7 +6,7 @@ const Resume = () => {
     return(
         <div className="Resume">
             <h1>Experience</h1>
-            <div className='dk-block'>
+            <div className='job'>
                 <h2>Davenport•Klein Commercial Real Estate - Web Developer - Septmeber 2023 - Present</h2>
                     <ul>
                         <li>Collaborated closely with the client to capture their vision, brand identity, and unique requirements, resulting in a website that aligns perfectly with their goals and objectives.</li>
@@ -18,7 +18,7 @@ const Resume = () => {
                         <li>Impoved at using AI to create text</li>
                     </ul>
             </div>
-            <div className='st-block'>
+            <div className='job'>
                 <h2>STARTALK - Web Administrative Assistant - September 2023</h2>
                     <ul>
                         <li>Refactored landing page with most recent promotion material</li>
@@ -30,7 +30,7 @@ const Resume = () => {
                         <li></li>
                     </ul>
             </div>
-            <div className='ck-block'>
+            <div className='job'>
                 <h2>Christopoulos & Kennedy General Contractors - Web Developer Consultant - April 2021 - July 2021</h2>
                 <ul>
                         <li>Researched and compiled a list of features and visual design elements to improve their current site</li>
@@ -42,7 +42,7 @@ const Resume = () => {
                         <li></li>
                     </ul>
             </div>
-            <div className='drc-block'>
+            <div className='job'>
                 <h2>Diakonia Retreat Center - Software Engineer - January 2020 - April 2021</h2>
                     <ul>
                         <li>40% increase in sales from automating, streamlining the ordering process, and freeing up staff</li>
