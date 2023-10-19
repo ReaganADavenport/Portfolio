@@ -1,6 +1,7 @@
 .Resume{
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 .Resume h1{
     color: #101616;
