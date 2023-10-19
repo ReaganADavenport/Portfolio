@@ -27,7 +27,8 @@ const Resume = () => {
                     </ul>
                 <h3>What I Learned</h3>
                     <ul>
-                        <li></li>
+                        <li>How to track down an issue in a WordPress plug-in</li>
+                        <li>When making and maitaining a responsive website, take wide screens into account as well as mobile</li>
                     </ul>
             </div>
             <div className='job'>
