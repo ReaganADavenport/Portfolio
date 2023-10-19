@@ -54,6 +54,7 @@ const Resume = () => {
                 <h3>What I Learned</h3>
                     <ul>
                         <li>Communication, Communication, Communication</li>
+                        <li>How to come onto an existing project and quickly find your way around the architecture</li>
                         <li>How to use WordPress and WooCommerce</li>
                         <li>How to use Squarespace</li>
                     </ul>
