@@ -14,7 +14,7 @@ const Footer = () => {
             
             <div className='About'>
                 <a href='/about'> <h4>About</h4> </a>
-                <p>© Reagan Davenport - 2022</p>
+                <p>© Reagan Davenport - 2023</p>
             </div>
             <div className='Portfolio'>
                 <a href='/portfolio'> <h4>Portfolio</h4> </a>
