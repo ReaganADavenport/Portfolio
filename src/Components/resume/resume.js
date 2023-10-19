@@ -39,7 +39,7 @@ const Resume = () => {
                     </ul>
                 <h3>What I Learned</h3>
                     <ul>
-                        <li></li>
+                        <li>Every industry has their own needs for their websites, and how to tailor a website to fit those needs</li>
                     </ul>
             </div>
             <div className='job'>
@@ -52,7 +52,9 @@ const Resume = () => {
                     </ul>
                 <h3>What I Learned</h3>
                     <ul>
-                        <li></li>
+                        <li>Communication, Communication, Communication</li>
+                        <li>How to use WordPress and WooCommerce</li>
+                        <li>How to use Squarespace</li>
                     </ul>
             </div>
                
