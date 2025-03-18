@@ -12,6 +12,7 @@ import Portfolio from './Components/portfolio/portfolio';
 import Contact from './Components/contact/contact';
 
 import Mandarin from './Components/mandarin/mandarin';
+import DavKlein from './Components/davenport-klein/davklein';
 import Drc from './Components/drc/drc';
 import Calculator from './Components/calculator/calc';
 import Shop from './Components/shop/shop';
@@ -31,6 +32,8 @@ function App() {
           <Route path="/about" element={<About></About>}></Route>
           <Route path="/resume" element={<Resume></Resume>}></Route>
           <Route path="/portfolio" element={<Portfolio></Portfolio>}></Route>
+
+          <Route path="/portfolio/davenportklein" element={<DavKlein></DavKlein>}></Route>
           <Route path="/portfolio/mandarin" element={<Mandarin></Mandarin>}></Route>
           <Route path="/portfolio/drc" element={<Drc></Drc>}></Route>
           <Route path="/portfolio/calculator" element={<Calculator></Calculator>}></Route>

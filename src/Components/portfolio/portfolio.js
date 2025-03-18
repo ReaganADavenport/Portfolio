@@ -3,12 +3,11 @@ import './portfolio.css';
 
 import Card from '../card/card';
 
+import disc from '../../Images/disc.png'
 import wen from '../../Images/wen.png';
 import leaf from '../../Images/leaf.png';
 import calc from '../../Images/calc.png';
 import cart from '../../Images/shop-cart.png';
-// import press from '../../Images/press-a.png';
-// import bamboo from '../../Images/bamboo.png';
 import weather from '../../Images/weather.png';
 import hummingbird from '../../Images/humming.png';
 import plum from '../../Images/radicals.png';
@@ -19,7 +18,7 @@ const Portfolio = () => {
         <div className="Porty">
             <h1>Portfolio</h1>
             <div className='Gallery'>
-                
+                <Card projectImage={disc} projectName="Davenport•Klein Commerical Real Estate" projectDescript="Squarespace" projectLink="/portfolio/davenportklein"></Card>
                 <Card projectImage={plum} projectName="Learning Radicals" projectDescript="React, JavaScript, HTML, CSS" projectLink="/portfolio/radicals"></Card>
                 <Card projectImage={hummingbird} projectName="Hummingbird Café" projectDescript="React, CSS, JavaScript" projectLink="/portfolio/hummingbird"></Card>
                 <Card projectImage={weather} projectName="Weather App" projectDescript="React, JavaScript, HTML, CSS, API" projectLink="/portfolio/weather"></Card>
