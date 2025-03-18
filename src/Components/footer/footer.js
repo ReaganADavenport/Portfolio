@@ -6,7 +6,6 @@ import medium from "../../Images/medium-logo.png";
 import phone from "../../Images/phone-logo.png";
 import email from "../../Images/email-logo.png";
 import linkedin from "../../Images/linkedin-logo.png";
-import twitter from "../../Images/twitter-logo.png";
 
 const Footer = () => {
     return(
@@ -31,7 +30,7 @@ const Footer = () => {
                     <a href="tel:404-558-9065"> <img src={phone} className="phone" alt="phone"></img> </a>
                     <a href="mailto:reagan.a.davenport@gmail.com"> <img src={email} className="email" alt="email"></img></a>
                     <a href='https://www.linkedin.com/in/reagan-davenport/'> <img src={linkedin} className="linkedin" alt='linkedin'></img> </a>
-                    <a href='https://twitter.com/ReaganADavenpo1'> <img src={twitter} className="twitter" alt='twitter'></img> </a>
+                   
                 </div>
                 
             </div>
