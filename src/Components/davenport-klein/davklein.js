@@ -29,7 +29,7 @@ const DavKlein = () => {
                 <div className='dk-block-2'>
                     <h3>Challenges</h3>
                     <ul>
-                        <li>Limited time frame to work on copy</li>
+                        <li>Relearning Squarespace, having not touched it since 2020</li>
                         <li>Limited expirience using AI to generate copy</li>
                     </ul>
                 </div>
